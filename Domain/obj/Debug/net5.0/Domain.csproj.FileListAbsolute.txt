@@ -1,0 +1,12 @@
+E:\Project0\Focus\Reactivities\Domain\bin\Debug\net5.0\Domain.deps.json
+E:\Project0\Focus\Reactivities\Domain\bin\Debug\net5.0\Domain.dll
+E:\Project0\Focus\Reactivities\Domain\bin\Debug\net5.0\ref\Domain.dll
+E:\Project0\Focus\Reactivities\Domain\bin\Debug\net5.0\Domain.pdb
+E:\Project0\Focus\Reactivities\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+E:\Project0\Focus\Reactivities\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project0\Focus\Reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+E:\Project0\Focus\Reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+E:\Project0\Focus\Reactivities\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+E:\Project0\Focus\Reactivities\Domain\obj\Debug\net5.0\Domain.dll
+E:\Project0\Focus\Reactivities\Domain\obj\Debug\net5.0\ref\Domain.dll
+E:\Project0\Focus\Reactivities\Domain\obj\Debug\net5.0\Domain.pdb
